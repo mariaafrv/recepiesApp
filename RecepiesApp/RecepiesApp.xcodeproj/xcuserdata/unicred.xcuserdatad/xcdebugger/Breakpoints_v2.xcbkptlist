@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "164DD614-3518-4DB3-9A43-19272825B70B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0FCFBA2-84F6-4B7C-BA89-79F567045FFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecepiesApp/View/Controllers/AddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "AddViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C0FCFBA2-84F6-4B7C-BA89-79F567045FFA - a99a677cdcd8569e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecepiesApp.AddViewController.addScreen.getter : RecepiesApp.AddView"
+                  moduleName = "RecepiesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unicred/Documents/swift/RecepiesApp/RecepiesApp/RecepiesApp/View/Controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "C0FCFBA2-84F6-4B7C-BA89-79F567045FFA - 60c169791386084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecepiesApp.AddViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RecepiesApp.AddViewController"
+                  moduleName = "RecepiesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unicred/Documents/swift/RecepiesApp/RecepiesApp/RecepiesApp/View/Controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "C0FCFBA2-84F6-4B7C-BA89-79F567045FFA - 90dcd17157ce64c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecepiesApp.AddViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RecepiesApp.AddViewController&gt;"
+                  moduleName = "RecepiesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unicred/Documents/swift/RecepiesApp/RecepiesApp/RecepiesApp/View/Controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
